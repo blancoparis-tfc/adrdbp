@@ -9,7 +9,9 @@ Las metricas para medir el proyecto (Key Performance Indicators)
 * **Cobertura**: Mide la calidad del código.
 * **Gobernanza**: Reglas de la gobernanza
 * **Complejidad**: Nos indica si tenemos lógica muy complicadas
+
 **Operaciones** 
+
 * **Tiempos de las apis**: Nos indica si tenemos algun problema de rendimiento
 * **Errores**: Cuantos errores de comunicacion reportamos (Sistema/ Negocio).
 * **Trafico**: El uso que le damos
